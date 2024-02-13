@@ -1,0 +1,7 @@
+System Verilog Modelling and Verification of Combinational and 
+Sequential Logic Blocks using File I/O                                                                                             
+AIM: 
+To design and verify 4-bit Universal Shift Register.
+TOOLS USED:  ModelSim
+
+A universal shift register is a register which has both the right shift and left shift operations along with parallel load capabilities.
