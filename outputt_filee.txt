@@ -1,0 +1,10 @@
+Input is: 0000
+Operation is 01: 0000
+Input is: 0011
+Operation is 10: 0001
+Input is: 1100
+Operation is 11: 1100
+Input is: 0101
+Operation is 00: 0000
+Input is: 0101
+Operation is 00: 0000
