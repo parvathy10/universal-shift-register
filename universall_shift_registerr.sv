@@ -17,13 +17,15 @@ module universal_shift_register(
                 y1[0] <= data_in[1];
                 y1[3] <= 1'b0;
             end
-            2'b11: //parallel loading
+            2'b11: // parallel loading
                 y1 = data_in;
             default: y1 <= 4'b0000; 
         endcase
     end
 
 endmodule
+
+//testbench
 
 module tb_uni_sr;
     logic [3:0] in_data;
